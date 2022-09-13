@@ -1,2 +1,2 @@
 # Text-game
-A in development little text adventure game
+An in development little text adventure game
